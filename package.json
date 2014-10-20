@@ -1,0 +1,16 @@
+{
+  "name": "v2-spotify-board",
+  "version": "0.0.0",
+  "description": "Dash to see spotify stats",
+  "main": "app.js",
+  "dependencies": {
+    "gulp-serve": "~0.2.0",
+    "gulp": "~3.8.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}
