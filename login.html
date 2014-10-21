@@ -4,3 +4,4 @@ login
     <input type="password" ng-model="password" name="password" required placeholder="secret"/>
     <input type="button" ng-click="login($event)" ng-disabled="loginForm.$invalid" value="login!"/>
 </form>
+<div>{{errorMessage}}</div>
